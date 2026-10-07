@@ -4,7 +4,7 @@
 
 <br />
 
-Faço interfaces em **React** e **Vue/Nuxt** com **TypeScript**, e cuido do back quando o projeto pede: login, banco e APIs. Hoje sou dev júnior na **SEAC-PA**, no Governo do Pará, e curso Ciência da Computação na FACI-Wyden.
+Faço interfaces em **React** e **Vue/Nuxt** com **TypeScript**, e cuido do back quando o projeto pede: login, banco e APIs. Hoje sou estagiário de desenvolvimento na **SEAC-PA**, no Governo do Pará, e curso Ciência da Computação na FACI-Wyden.
 
 <img src="./assets/stack.svg" width="100%" alt="Stack: React, Vue, Nuxt, TypeScript, Tailwind, Supabase, Node.js, GSAP, Three.js, Pinia, Vite, Java" />
 
