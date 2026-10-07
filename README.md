@@ -1,5 +1,5 @@
 <a href="https://anotherportfolio-taupe.vercel.app">
-  <img src="./assets/hero.svg" width="100%" alt="Thiago Maués — Front-end em primeiro lugar, full stack quando precisa." />
+  <img src="./assets/hero-v2.svg" width="100%" alt="Thiago Maués — Front-end em primeiro lugar, full stack quando precisa." />
 </a>
 
 <br />
